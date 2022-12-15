@@ -1,1 +1,1 @@
-GITHUB_TOKEN=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 npx semantic-release --no-ci
+GITHUB_TOKEN= npx semantic-release --no-ci
